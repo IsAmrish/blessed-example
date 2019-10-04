@@ -1,0 +1,18 @@
+{
+  "name": "@uxworks/blessed-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "marked": "^0.7.0",
+    "marked-terminal": "^3.3.0"
+  }
+}
